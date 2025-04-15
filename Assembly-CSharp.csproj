@@ -59,16 +59,16 @@
     <UnityVersion>2022.3.35f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Analyzer Include="C:\Users\toast\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
+    <Analyzer Include="C:\Users\toast\.vscode\extensions\visualstudiotoolsforunity.vstuc-1.1.1\Analyzers\Microsoft.Unity.Analyzers.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.35f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.SourceGenerators.dll" />
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.35f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\HealthBarScript.cs" />
-    <Compile Include="Assets\Scripts\TestScript.cs" />
     <Compile Include="Assets\Scripts\WeaponLock.cs" />
     <Compile Include="Assets\Scripts\AiBehavior.cs" />
     <Compile Include="Assets\Scripts\PlayerShooting.cs" />
+    <Compile Include="Assets\Scripts\BaseBallBatScript.cs" />
     <Compile Include="Assets\Scripts\moveStaff.cs" />
     <Compile Include="Assets\Scripts\HurtFlash.cs" />
     <Compile Include="Assets\Scripts\movePlayer.cs" />
